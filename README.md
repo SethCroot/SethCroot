@@ -14,9 +14,6 @@ Cron-driven automation layer for AI agent platforms. System health monitoring wi
 ### [Agentic Job Search](https://github.com/SethCroot/agentic-job-search)
 LLM-powered job discovery and scoring pipeline. Scrapes job boards, enriches descriptions, scores fit against a resume using configurable weighted rubrics, and generates tailored cover letters as PDFs. **Python, FastAPI, SQLite, multi-provider LLM orchestration.**
 
-### [Workout Sync API](https://github.com/SethCroot/workout-sync-api)
-Health data pipeline aggregating Strava, Hevy, and Apple Health into a normalised SQLite store. OAuth 2.0 token lifecycle management, webhook ingestion, and a REST API for querying unified fitness data. **Python, FastAPI, OAuth 2.0, SQLite.**
-
 ### [ApplyPilot (fork)](https://github.com/SethCroot/ApplyPilot)
 Fork of [Pickle-Pixel/ApplyPilot](https://github.com/Pickle-Pixel/ApplyPilot). Added a 7th pipeline stage that exports scored jobs to an Obsidian vault as structured markdown with YAML frontmatter, and rewrote the scoring engine with a weighted location/experience/skills rubric. **Python.**
 
