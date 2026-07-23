@@ -1,6 +1,6 @@
 # Seth Croot
 
-**AI Automation Engineer** who directs autonomous agents to build and operate production systems. Vancouver, BC.
+**Integration Analyst** who directs autonomous agents to build and operate production systems. Vancouver, BC.
 
 I don't write every line of code myself. I direct AI agents that do. My skill is in the orchestration: defining architecture, specifying behaviour, reviewing output, and holding the system accountable. The repos on this profile were built this way. The code is real, the systems run in production, and I'm responsible for all of it.
 
@@ -47,5 +47,3 @@ That background is why agent orchestration works for me. I know how systems brea
 ## Currently
 
 Building AI automation systems. Open to **AI automation, agent orchestration, and integration engineering** roles in Vancouver, BC.
-
----
